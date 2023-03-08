@@ -17,8 +17,8 @@ export const BackgroundImg = styled.img`
 `;
 
 export const LogoImage = styled.img`
-  max-width: 450px;
-  max-height: 400px;
+  max-width: 202px;
+  max-height: 143px;
 `;
 
 export const ContainerLogin = styled.div`
@@ -41,4 +41,5 @@ export const LimitedContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 `;
