@@ -23,7 +23,7 @@ interface PStyledLink {
 }
 
 const StyledDiv = styled.div<PStyledLink>`
-  color: ${(props) => (props.isBlue ? 'blue' : 'pink')};
+  color: ${(props) => (props.isBlue ? 'blue' : 'red')};
   font-weight: bold;
 `;
 
