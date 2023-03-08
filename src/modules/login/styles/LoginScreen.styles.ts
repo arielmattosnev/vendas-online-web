@@ -17,8 +17,7 @@ export const BackgroundImg = styled.img`
 `;
 
 export const LogoImage = styled.img`
-  max-width: 202px;
-  max-height: 143px;
+  width: 202px;
 `;
 
 export const ContainerLogin = styled.div`

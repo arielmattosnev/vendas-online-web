@@ -13,7 +13,7 @@ const LoginScreen = () => {
       <BackgroundImg src="./background.png" />
       <ContainerLogin>
         <LimitedContainer>
-          <LogoImage src="./logo_transparent.png" />
+          <LogoImage src="./logo.png" />
           <Input title="Usuário" />
           <Input title="Senha" />
         </LimitedContainer>
